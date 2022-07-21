@@ -1,0 +1,1 @@
+document.getElementById("popUpText").innerHTML = hello;
